@@ -1,11 +1,11 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Naomi Takemoto
+bio:                'Some experiences'
+description:        "Description"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-background_image:   /images/bg.jpg
+background_image:   /images/Starry_Night_Over_the_Rhone.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
 
@@ -38,10 +38,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            naomitkm6
+facebook:
+instagram:
+github:             ntak1
 
 # personal
 location:           Los Angeles, CA

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Primeiro Post"
+date:   2018-10-20
+excerpt: "Isto é apenas um teste. Este é o mini texto que aparece antes do full story"
+image: "/images/notebook.jpg"
+---
+
+## Porque ter um site agora?
+O principal objetivo é aprender um pouco sobre o GitHub pages. Isso é também um esforço para manter meus repositórios organizados, além do fato de que escrever sobre os trabalhos que fiz pode ter um bom efeito didático.
+
